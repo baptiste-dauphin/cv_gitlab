@@ -1,29 +1,29 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Baptiste Dauphin's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Baptiste Dauphin
+Administrateur systèmes et réseaux
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="baptiste.dauphin.pro@gmail.com">mail</a>
+| <a href="https://www.qwant.com/">Mon entreprise</a>
 </div>
 
 
-## Currently
+<!-- ## Currently
 
-Standing on the shoulders of giants
+Standing on the shoulders of giants -->
 
-### Specialized in
+<!-- ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke) -->
 
 
-### Research interests
+<!-- ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
-
+ -->
 
 ## Education
 
@@ -42,36 +42,16 @@ __Trinity College, Cambridge__
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2016`
+Comment générer différents signaux à partir d'une carte electronique Arduino, [documentation](https://drive.google.com/open?id=0B5wrnG1NJCSSQXNkTV9iaHdkamM)
 
 
-## Occupation
+## 
 
 `1600`
 __Royal Mint__, London

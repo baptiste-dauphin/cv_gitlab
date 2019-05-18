@@ -25,47 +25,46 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
  -->
 
-## Education
+## Formations
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2017`
+__École Supérieure d’Ingénieurs en Génie Électrique (ESIGELEC), Rouen__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- __Dominante__ : Affaires dans l'informatique et les réseaux.
+- Systèmes d’exploitation, réseaux, gestion de projet, électronique, appel d’offres.
 
-- Sizar
+`2012-2014`
+__Institut Universitaire de Technologie Réseaux et Télécommunications, Elbeuf__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Administration des réseaux, développement, bases de données.
 
 
 
 
-## Publications
+## Documentation
 
-### Patents
+### Recherche
 
 `2016`
 Comment générer différents signaux à partir d'une carte electronique Arduino, [documentation](https://drive.google.com/open?id=0B5wrnG1NJCSSQXNkTV9iaHdkamM)
 
 
-## 
+## Centres d'intérêts
 
-`1600`
-__Royal Mint__, London
+### Sports
 
-- Warden
-- Minted coins
+Planche à voile, escalade de difficulté, block.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Informatique
+
+ArchLinux, securité, création de challenge pour la [Nuit Du Hack](https://lehack.org/fr).
+
+### Autres
+
+Lecture, Communication Non Violente, automobile.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: 18 mai 2019 -->

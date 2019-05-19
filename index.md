@@ -6,8 +6,8 @@ title: Baptiste Dauphin's CV
 Administrateur systèmes et réseaux
 
 <div id="webaddress">
-<a href="baptiste.dauphin.pro@gmail.com">mail</a>
-| <a href="https://www.qwant.com/">Mon entreprise</a>
+<a href="baptiste.dauphin.pro@gmail.com">baptiste.dauphin.pro@gmail.com</a>
+| <a href="https://www.qwant.com/">Qwant</a>
 </div>
 
 
@@ -57,7 +57,7 @@ Planche à voile, escalade de difficulté, block.
 
 ### Informatique
 
-ArchLinux, securité, création de challenge pour la [Nuit Du Hack](https://lehack.org/fr).
+ArchLinux, securité, création de challenge pour la [Nuit Du Hack](https://lehack.org/fr#MORE).
 
 ### Autres
 

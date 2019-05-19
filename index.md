@@ -69,9 +69,9 @@ Rédaction d’une documentation complète en anglais
 
 ### OS
 Debian, Ubuntu, ESX, Windows server.
-### Infra
+### Infrastructure
 VMWare, OpenStack, cloud OVH, PfSense, SaltStack, Ansible, GitLab, Hashicorp Terraform, Hashicorp Vault, cloud-init, docker, python virtualenv, php-fpm, npm, uwsgi,  HAProxy, NGINX, naxsi (WAF), bind9, unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL, Percona Cluster, Grafana, prometheus, zabbix, TLS, LVM, Squid, Keepalived, health checking.
-### Reseaux
+### Réseaux
 iptables statefull et stateless, tcpdump, netcat.
 ### Langages
 Bash, yaml, python.

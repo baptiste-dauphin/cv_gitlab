@@ -14,7 +14,30 @@ Administrateur systèmes et réseaux
 
 `janvier 2018 - présent`
 ### __Administrateur systèmes et réseaux__ | [Qwant](https://www.qwant.com/)
-Integration 
+
+Integration et maintenance de nouveaux services (appli internes)
+
+Mise en pré-production & production
+
+Support aux developpeurs & gestion des accès
+
+Entretien et mise à jour du parc de serveurs
+
+Mise en place du monitoring de la collecte de data jusqu'à la creation de dashboard (interne et externe)
+
+Refonte et maintien des bases de données en mode haute disponibilités
+
+Mise en place de répartition de charges
+
+Refonte de la gestion et maintien des serveurs DNS
+
+Prise en charge d'une partie du POC avec OVH pendant 6 mois
+
+Automatisation du deployment de serveurs, du monitoring, gestion d'accès et de la cybersecurité
+
+Harmonisation de la gestion des Crawlers
+
+
 
 
 `février 2017 - janvier 2018`
@@ -39,11 +62,11 @@ Rédaction d’une documentation complète en anglais
 ### OS
 Debian, Ubuntu, ESX, Windows server.
 ### Infra
-VMWare, OpenStack, cloud OVH, SaltStack, Ansible, Hashicorp Terraform, Hashicorp Vault, cloud-init, docker, pipenv, GitLab, php-fpm, npm, uwsgi,  HAProxy, nginx, naxsi, bind9, unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL, Percona Cluster, Grafana, prometheus, zabbix, TLS, systemd, LVM, cron, Squid, Keepalived, ntp, syslog-ng.
+VMWare, OpenStack, cloud OVH, PfSense, SaltStack, Ansible, Hashicorp Terraform, Hashicorp Vault, cloud-init, docker, python virtualenv, GitLab, php-fpm, npm, uwsgi,  HAProxy, nginx, naxsi (WAF), bind9, unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL, Percona Cluster, Grafana, prometheus, zabbix, TLS, LVM, Squid, Keepalived, health checking.
 ### Reseaux
 iptables stateless et statefull, tcpdump, netcat, arp.
 ### Langages
-Bash, python, yaml.
+Bash, yaml, python.
 
 
 

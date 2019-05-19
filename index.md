@@ -15,7 +15,7 @@ Administrateur systèmes et réseaux
 `janvier 2018 - présent`
 ### __Administrateur systèmes et réseaux__ | [Qwant](https://www.qwant.com/)
 
-Integration et maintenance de nouveaux services (appli internes)
+Integration et maintenance des nouveaux services : (applications internes)
 
 Mise en pré-production & production
 
@@ -23,7 +23,7 @@ Support aux developpeurs & gestion des accès
 
 Entretien et mise à jour du parc de serveurs
 
-Mise en place du monitoring de la collecte de data jusqu'à la creation de dashboard (interne et externe)
+Mise en place du monitoring, interne et externe, depuis la collecte de data jusqu'à la creation de dashboard
 
 Refonte et maintien des bases de données en mode haute disponibilités
 
@@ -41,20 +41,28 @@ Harmonisation de la gestion des Crawlers
 
 
 `février 2017 - janvier 2018`
-### __Ingénieur d’Affaires__ | Quantic Telecom (https://www.quantic-telecom.net/)
+### __Ingénieur d’Affaires__ | [Quantic Telecom](https://www.quantic-telecom.net/)
+
 Mise en place de partenariats de revente et gestion des sous-traitants
+
 Prospection directe et téléphonique, prise de rendez-vous, relance, négociation
+
 Arrivée, câblage et configuration de matériels actifs et passifs optiques en datacenter
 
 `janvier 2016 - février 2017`
-### __Ingénieur Développement et Réseaux__ | Groupe Renault (https://group.renault.com/groupe/implantations/nos-implantations-industrielles/usine-cleon/)
+### __Ingénieur Développement et Réseaux__ | [Groupe Renault](https://group.renault.com/groupe/implantations/nos-implantations-industrielles/usine-cleon/)
+
 Réalisation d’un état de l’art et d’un cahier des charges précis
+
 Analyse du flux réseau : (dés)encapsulation bit à bit
+
 Automatisation de la remontée de défauts en mode asynchrone et envoi normé à l’interface graphique
 
 `juin 2016 - septembre 2016`
-### __Développeur Arduino__ | Universidade do Algarve(https://www.ualg.pt/pt)
+### __Développeur Arduino__ | [Universidade do Algarve](https://www.ualg.pt/pt)
+
 Réation d’une base de connaissance pour un projet de recherche, création d’outils de visualisation
+
 Rédaction d’une documentation complète en anglais
 
 ## Compétences informatiques
@@ -62,9 +70,9 @@ Rédaction d’une documentation complète en anglais
 ### OS
 Debian, Ubuntu, ESX, Windows server.
 ### Infra
-VMWare, OpenStack, cloud OVH, PfSense, SaltStack, Ansible, Hashicorp Terraform, Hashicorp Vault, cloud-init, docker, python virtualenv, GitLab, php-fpm, npm, uwsgi,  HAProxy, nginx, naxsi (WAF), bind9, unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL, Percona Cluster, Grafana, prometheus, zabbix, TLS, LVM, Squid, Keepalived, health checking.
+VMWare, OpenStack, cloud OVH, PfSense, SaltStack, Ansible, GitLab, Hashicorp Terraform, Hashicorp Vault, cloud-init, docker, python virtualenv, php-fpm, npm, uwsgi,  HAProxy, NGINX, naxsi (WAF), bind9, unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL, Percona Cluster, Grafana, prometheus, zabbix, TLS, LVM, Squid, Keepalived, health checking.
 ### Reseaux
-iptables stateless et statefull, tcpdump, netcat, arp.
+iptables statefull et stateless, tcpdump, netcat.
 ### Langages
 Bash, yaml, python.
 

@@ -6,14 +6,14 @@ title: Baptiste Dauphin's CV
 Administrateur systèmes et réseaux
 
 <div id="webaddress">
-<a href="mailto:baptiste.dauphin.pro@gmail.com">baptiste.dauphin.pro@gmail.com</a> | <a href="https://fr.linkedin.com/in/baptiste-dauphin">LinkedIn</a>|  06 81 65 72 22 | 25 ans | Permis B
+<a href="mailto:baptiste.dauphin.pro@gmail.com">baptiste.dauphin.pro@gmail.com</a> | <a href="https://fr.linkedin.com/in/baptiste-dauphin">LinkedIn</a> |  06 81 65 72 22 | 25 ans | Permis B
 </div>
 
 
 ## Expériences
 
 `janvier 2018 - présent`
-### __Administrateur systèmes et réseaux__ | [Qwant](https://www.qwant.com/ "title" target="_blank")
+### __Administrateur systèmes et réseaux__ | [Qwant](https://www.qwant.com/)
 
 Integration et maintenance des nouveaux services (applications internes)
 

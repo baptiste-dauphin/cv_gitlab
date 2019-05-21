@@ -39,8 +39,6 @@ Harmonisation de la gestion des Crawlers
 
 Gestion du blog
 
-Gestion du service DNS Junior
-
 
 
 `février 2017 - janvier 2018`

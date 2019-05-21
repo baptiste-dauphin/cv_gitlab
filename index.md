@@ -37,6 +37,9 @@ Automatisation du deploiement de serveurs, du monitoring, gestion d'accès et de
 
 Harmonisation de la gestion des Crawlers
 
+Gestion du blog
+
+Gestion du service DNS Junior
 
 
 

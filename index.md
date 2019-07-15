@@ -69,13 +69,13 @@ Rédaction d’une documentation complète en anglais
 ## Compétences informatiques
 
 ### OS
-Debian, Ubuntu, ESX, Windows server.
+Debian, Ubuntu, ArchLinux, ESX, Windows server.
 ### Infrastructure
-VMWare, OpenStack, cloud OVH, PfSense, SaltStack, Ansible, GitLab, Hashicorp Terraform, Hashicorp Vault, cloud-init, docker, python virtualenv, php-fpm, npm, uwsgi,  HAProxy, NGINX, naxsi (WAF), bind9, unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL, Percona Cluster, Grafana, prometheus, zabbix, TLS, LVM, Squid, Keepalived, health checking.
+VMWare, OpenStack, OVH, Outscale, PfSense, SaltStack, Ansible, GitLab, Hashicorp Terraform, Hashicorp Vault, Cloud-init, Docker, Python virtualenv, php-fpm, Npm, uwsgi,  HAProxy, NGINX, naxsi (WAF), bind9, unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL/mariaDB, Percona Cluster, Grafana, Prometheus, Zabbix-Server, SSL/TLS, lvm, Squid3, Keepalived, Systemd services, Health-Checking.
 ### Réseaux
-iptables statefull et stateless, tcpdump, netcat.
+Iptables statefull et stateless, tcpdump, netcat, mtr.
 ### Langages
-Bash, yaml, python.
+Bash, Python (+ Jinja2), Yaml.
 
 
 
@@ -119,18 +119,18 @@ Comment générer différents signaux à partir d'une carte électronique Arduin
 
 ### Sports
 
-Planche à voile, escalade de difficulté, block.
+Block, escalade de difficulté, planche à voile, surf, snowboard.
 
 ### Informatique
 
-ArchLinux, securité, création de challenge pour la [Nuit Du Hack](https://lehack.org/fr#MORE).
+Linux, cybersécurité, Root-Me, création de challenge pour [Le Hack](https://lehack.org/fr#MORE).
 
 ### Autres
 
-Lecture, communication non-violente, automobile, vie associative.
+Voyage, lecture, nutrition, meditation, communication non-violente, vie associative, jeux vidéos, automobile.
 
 
 
 <!-- ### Footer
 
-Last updated: 19 mai 2019 -->
+Last updated: 15 juillet 2019 -->

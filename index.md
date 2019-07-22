@@ -6,39 +6,105 @@ title: Baptiste Dauphin's CV
 Administrateur systèmes et réseaux
 
 <div id="webaddress">
-<a href="baptiste.dauphin.pro@gmail.com">mail</a>
-| <a href="https://www.qwant.com/">Mon entreprise</a>
+<a href="mailto:baptiste.dauphin.pro@gmail.com">baptiste.dauphin.pro@gmail.com</a> | <a href="https://fr.linkedin.com/in/baptiste-dauphin">LinkedIn</a> |  06 81 65 72 22 | 25 ans | Permis B
 </div>
 
 
-<!-- ## Currently
+## Expériences
 
-Standing on the shoulders of giants -->
+`janvier 2018 - présent`
+### __Administrateur systèmes et réseaux__ | [Qwant](https://www.qwant.com/)
 
-<!-- ### Specialized in
+Integration et maintenance des nouveaux services (applications internes)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke) -->
+Mise en pré-production & production
+
+Support aux developpeurs & gestion des accès
+
+Entretien et mise à jour du parc de serveurs
+
+Mise en place du monitoring, interne et externe, depuis la collecte de data jusqu'à la creation de dashboard
+
+Refonte et maintien des bases de données en mode haute disponibilité
+
+Mise en place de répartition de charges
+
+Refonte de la gestion et maintien des serveurs DNS
+
+Prise en charge d'une partie du POC avec OVH pendant 6 mois
+
+Automatisation du deploiement de serveurs, du monitoring, gestion d'accès et de la cybersecurité
+
+Harmonisation de la gestion des Crawlers
+
+Gestion du blog
 
 
-<!-- ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
- -->
+`février 2017 - janvier 2018`
+### __Ingénieur d’Affaires__ | [Quantic Telecom](https://www.quantic-telecom.net/)
+
+Mise en place de partenariats de revente et gestion des sous-traitants
+
+Prospection directe et téléphonique, prise de rendez-vous, relance, négociation
+
+Arrivée, câblage et configuration de matériels actifs et passifs optiques en datacenter
+
+`janvier 2016 - février 2017`
+### __Ingénieur Développement et Réseaux__ | [Groupe Renault](https://group.renault.com/groupe/implantations/nos-implantations-industrielles/usine-cleon/)
+
+Réalisation d’un état de l’art et d’un cahier des charges précis
+
+Analyse du flux réseau : (dés)encapsulation bit à bit
+
+Automatisation de la remontée de défauts en mode asynchrone et envoi normé à l’interface graphique
+
+`juin 2016 - septembre 2016`
+### __Développeur Arduino__ | [Universidade do Algarve](https://www.ualg.pt/pt)
+
+Rédation d’une base de connaissance pour un projet de recherche, création d’outils de visualisation
+
+Rédaction d’une documentation complète en anglais
+
+## Compétences informatiques
+
+### OS
+Debian, Ubuntu, ArchLinux, ESX, Windows server.
+### Infrastructure
+VMWare, OpenStack, OVH, Outscale, PfSense, SaltStack, Ansible, GitLab, Hashicorp Terraform, Hashicorp Vault, Cloud-init, Docker, Python virtualenv, php-fpm, Npm, uwsgi,  HAProxy, NGINX, naxsi (WAF), bind9, unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL/mariaDB, Percona Cluster, Grafana, Prometheus, Zabbix-Server, SSL/TLS, lvm, Squid3, Keepalived, Systemd services, Health-Checking.
+### Réseaux
+Iptables statefull et stateless, tcpdump, netcat, mtr.
+### Langages
+Bash, Python (+ Jinja2), Yaml.
+
+
 
 ## Formations
 
 `2014-2017`
-__École Supérieure d’Ingénieurs en Génie Électrique (ESIGELEC), Rouen__
+__École Supérieure d’Ingénieurs en Génie Électrique [(ESIGELEC)](http://www.esigelec.fr/fr), Rouen__
 
-- __Dominante__ : Affaires dans l'informatique et les réseaux.
+- Dominante : Affaires dans l'informatique et les réseaux.
 - Systèmes d’exploitation, réseaux, gestion de projet, électronique, appel d’offres.
 
 `2012-2014`
-__Institut Universitaire de Technologie Réseaux et Télécommunications, Elbeuf__
+__[Institut Universitaire de Technologie Réseaux et Télécommunications](http://iutrouen.univ-rouen.fr/dut-reseaux-et-telecommunications-351515.kjsp), Elbeuf__
 
-- Administration des réseaux, développement, bases de données.
+- Télécommunications, administration des réseaux, développement, bases de données, électronique.
 
+`2010-2012`
+__[Lycée Blaise Pascal](http://pascal-lyc.spip.ac-rouen.fr/), Rouen__
 
+- Bac scientifique
+- Option sciences de l'ingénieur : mecanique, électronique et informatique
+
+## Langues
+
+### Français
+Langue maternelle
+
+### Anglais
+TOEIC 2017 : Working proficiency plus
 
 
 ## Documentation
@@ -46,25 +112,25 @@ __Institut Universitaire de Technologie Réseaux et Télécommunications, Elbeuf
 ### Recherche
 
 `2016`
-Comment générer différents signaux à partir d'une carte electronique Arduino, [documentation](https://drive.google.com/open?id=0B5wrnG1NJCSSQXNkTV9iaHdkamM)
+Comment générer différents signaux à partir d'une carte électronique Arduino, [documentation](https://drive.google.com/open?id=0B5wrnG1NJCSSQXNkTV9iaHdkamM)
 
 
 ## Centres d'intérêts
 
 ### Sports
 
-Planche à voile, escalade de difficulté, block.
+Block, escalade de difficulté, planche à voile, surf, snowboard.
 
 ### Informatique
 
-ArchLinux, securité, création de challenge pour la [Nuit Du Hack](https://lehack.org/fr).
+Linux, cybersécurité, Root-Me, création de challenge pour [Le Hack](https://lehack.org/fr#MORE).
 
 ### Autres
 
-Lecture, Communication Non Violente, automobile.
+Voyage, lecture, nutrition, meditation, communication non-violente, vie associative, jeux vidéos, automobile.
 
 
 
 <!-- ### Footer
 
-Last updated: 18 mai 2019 -->
+Last updated: 15 juillet 2019 -->

@@ -69,13 +69,15 @@ Rédaction d’une documentation complète en anglais
 ## Compétences informatiques
 
 ### OS
-Debian, Ubuntu, ArchLinux, ESX, Windows server.
+Debian/Ubuntu, ArchLinux, ESX, Windows server.
 ### Infrastructure
-VMWare, OpenStack, OVH, Outscale, PfSense, SaltStack, Ansible, GitLab, Hashicorp Terraform, Hashicorp Vault, Cloud-init, Docker, Python virtualenv, php-fpm, Npm, uwsgi,  HAProxy, NGINX, naxsi (WAF), bind9, unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL/mariaDB, Percona Cluster, Grafana, Prometheus, Zabbix-Server, SSL/TLS, lvm, Squid3, Keepalived, Systemd services, Health-Checking.
+VMWare, OpenStack, OVH, Outscale, PfSense, SaltStack, Ansible, GitLab/GitHub, Terraform, Vault, Cloud-init, Docker, Swarm, Kubernetes, Python virtualenv, uwsgi, Php-fpm, Npm, HAProxy, NGINX (+naxsi WAF), Bind9, Unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL/mariaDB, Percona Cluster, Grafana, Prometheus, Zabbix, OpenSSL, lvm, Squid, Keepalived, Syslog-ng, Systemd unit, Xinetd, Health-Checking.
 ### Réseaux
-Iptables statefull et stateless, tcpdump, netcat, mtr.
+Iptables statefull et stateless, Tcpdump, Netcat, Mtr.
 ### Langages
 Bash, Python (+ Jinja2), Yaml.
+### Documentation personnelle
+[:book:](https://github.com/FataPlex/documentation)
 
 
 
@@ -107,7 +109,7 @@ Langue maternelle
 TOEIC 2017 : Working proficiency plus
 
 
-## Documentation
+## Travaux
 
 ### Recherche
 
@@ -133,4 +135,4 @@ Voyage, lecture, nutrition, meditation, communication non-violente, vie associat
 
 <!-- ### Footer
 
-Last updated: 15 juillet 2019 -->
+Last updated: 1 janvier 2020 -->

@@ -27,15 +27,15 @@ Refonte et maintien des bases de données en mode haute disponibilité.
 
 Répartition de charges avec health-checking et failover.
 
-Refonte de la gestion des serveurs DNS.
+Gestion des serveurs DNS orchestrée et versionnée.
 
 Prise en charge du POC avec OVH pendant 6 mois.
 
-Design et mise en place de l'infrastructure DNS QwantJunior.
+Design et déploiement de l'infrastructure DNS QwantJunior.
 
 Support aux developpeurs et gestion des accès.
 
-Automatisation : deploiement, configuration system, remonté de logs, gestion d'accès, firewall, monitoring.
+Automatisation : déploiement, configuration system, remonté de logs, gestion d'accès, firewall, monitoring.
 
 Maintien de la production (Running).
 
@@ -71,7 +71,7 @@ Rédaction d’une documentation complète en anglais
 ### OS
 Debian/Ubuntu, ArchLinux, ESX, Windows server.
 ### Infrastructure
-VMWare, OpenStack, OVH, Outscale, PfSense, SaltStack, Ansible, GitLab/GitHub, Terraform, Vault, Cloud-init, Docker, Swarm, Kubernetes, Python virtualenv, uwsgi, Php-fpm, Npm, HAProxy, NGINX (+naxsi WAF), Bind9, Unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL/mariaDB, Percona Cluster, Grafana, Prometheus, Zabbix, OpenSSL, lvm, Squid, Keepalived, Syslog-ng, Systemd unit, Xinetd, Health-Checking.
+VMWare, OpenStack, OVH, Outscale, PfSense, SaltStack, Ansible, GitLab/GitHub, Terraform, Cloud-init, Docker, Swarm, Kubernetes, Python virtualenv, uwsgi, Php-fpm, Npm, HAProxy, NGINX (+naxsi WAF), Bind9, Unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL/mariaDB, Percona Cluster, Redis, Grafana, Prometheus, Zabbix, OpenSSL, lvm, Squid, Keepalived, Syslog-ng, Systemd unit, Xinetd, Health-Checking.
 ### Réseaux
 Iptables statefull et stateless, Tcpdump, Netcat, Mtr.
 ### Langages

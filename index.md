@@ -15,29 +15,29 @@ Administrateur systèmes et réseaux
 `janvier 2018 - présent`
 ### __Administrateur systèmes et réseaux__ | [Qwant](https://www.qwant.com/)
 
-Integration et maintenance des nouveaux services (applications internes)
+Mise en production (data, schema bdd, code applicatif, records DNS, certificats).
 
-Mise en pré-production & production
+Integration et maintenance d'applications internes.
 
-Support aux developpeurs & gestion des accès
+Création, entretien et mise à jour du parc de serveurs.
 
-Entretien et mise à jour du parc de serveurs
+Monitoring interne et externe : collecte de data + creation de dashboards automatisés.
 
-Mise en place du monitoring, interne et externe, depuis la collecte de data jusqu'à la creation de dashboard
+Refonte et maintien des bases de données en mode haute disponibilité.
 
-Refonte et maintien des bases de données en mode haute disponibilité
+Répartition de charges avec health-checking et failover.
 
-Mise en place de répartition de charges
+Refonte de la gestion des serveurs DNS.
 
-Refonte de la gestion et maintien des serveurs DNS
+Prise en charge du POC avec OVH pendant 6 mois.
 
-Prise en charge d'une partie du POC avec OVH pendant 6 mois
+Design et mise en place de l'infrastructure DNS QwantJunior.
 
-Automatisation du deploiement de serveurs, du monitoring, gestion d'accès et de la cybersecurité
+Support aux developpeurs et gestion des accès.
 
-Harmonisation de la gestion des Crawlers
+Automatisation : deploiement, configuration system, remonté de logs, gestion d'accès, firewall, monitoring.
 
-Gestion du blog
+Maintien de la production (Running).
 
 
 
@@ -135,4 +135,4 @@ Voyage, lecture, nutrition, meditation, communication non-violente, vie associat
 
 <!-- ### Footer
 
-Last updated: 1 janvier 2020 -->
+Last updated: 24 janvier 2020 -->

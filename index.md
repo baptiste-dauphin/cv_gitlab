@@ -15,27 +15,28 @@ Administrateur systèmes et réseaux
 `janvier 2018 - présent`
 ### __Administrateur systèmes et réseaux__ | [Qwant](https://www.qwant.com/)
 
-Mise en production (data, schema bdd, code applicatif, records DNS, certificats).
 
-Integration et maintenance d'applications internes.
+Mise en production (data, schema, load-balancer, code, DNS, certificats...).
 
-Création, entretien et mise à jour du parc de serveurs.
+Automatisation : déploiement, configuration system, remonté de logs, gestion d'accès, firewall, monitoring.
+
+Refonte et maintien des bases de données en mode haute disponibilité.
+
+Design et déploiement de l'infrastructure DNS QwantJunior.
 
 Monitoring interne et externe : collecte de data + creation de dashboards automatisés.
 
-Refonte et maintien des bases de données en mode haute disponibilité.
+Integration et maintenance des applications internes.
+
+Création, entretien et mise à jour du parc de serveurs.
 
 Répartition de charges avec health-checking et failover.
 
 Gestion des serveurs DNS orchestrée et versionnée.
 
-Prise en charge du POC avec OVH pendant 6 mois.
-
-Design et déploiement de l'infrastructure DNS QwantJunior.
-
 Support aux developpeurs et gestion des accès.
 
-Automatisation : déploiement, configuration system, remonté de logs, gestion d'accès, firewall, monitoring.
+Prise en charge du POC avec OVH pendant 6 mois.
 
 Maintien de la production (Running).
 
@@ -69,13 +70,13 @@ Rédaction d’une documentation complète en anglais
 ## Compétences informatiques
 
 ### OS
-Debian/Ubuntu, ArchLinux, ESX, Windows server.
+Debian/Ubuntu, ArchLinux, ESX.
 ### Infrastructure
 VMWare, OpenStack, OVH, Outscale, PfSense, SaltStack, Ansible, GitLab/GitHub, Terraform, Cloud-init, Docker, Swarm, Kubernetes, Python virtualenv, uwsgi, Php-fpm, Npm, HAProxy, NGINX (+naxsi WAF), Bind9, Unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL/mariaDB, Percona Cluster, Redis, Grafana, Prometheus, Zabbix, OpenSSL, lvm, Squid, Keepalived, Syslog-ng, Systemd unit, Xinetd, Health-Checking.
 ### Réseaux
 Iptables statefull et stateless, Tcpdump, Netcat, Mtr.
 ### Langages
-Bash, Python (+ Jinja2), Yaml.
+Bash, Python, Jinja2, Yaml.
 ### Documentation personnelle
 [Doc Linux](https://github.com/FataPlex/documentation)
 
@@ -132,7 +133,6 @@ Linux, cybersécurité, Root-Me, création de challenge pour [Le Hack](https://l
 Voyage, lecture, nutrition, meditation, communication non-violente, vie associative, jeux vidéos, automobile.
 
 
-
 <!-- ### Footer
 
-Last updated: 24 janvier 2020 -->
+Last updated: 12 fevrier 2020 -->

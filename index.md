@@ -6,7 +6,7 @@ title: Baptiste Dauphin's CV
 Administrateur systèmes et réseaux
 
 <div id="webaddress">
-<a href="mailto:baptiste.dauphin.pro@gmail.com">baptiste.dauphin.pro@gmail.com</a> | <a href="https://fr.linkedin.com/in/baptiste-dauphin">LinkedIn</a> |  06 81 65 72 22 | 25 ans | Permis B
+<a href="mailto:baptistedauphin76@gmail.com">baptistedauphin76@gmail.com</a> | <a href="https://fr.linkedin.com/in/baptiste-dauphin">LinkedIn</a> |  06 81 65 72 22 | 25 ans | Permis B
 </div>
 
 
@@ -78,7 +78,7 @@ Iptables statefull et stateless, Tcpdump, Netcat, Mtr.
 ### Langages
 Bash, Python, Jinja2, Yaml.
 ### Documentation personnelle
-[Repository GitHub](https://github.com/FataPlex/documentation)
+[Doc Linux](https://github.com/FataPlex/documentation)
 
 
 

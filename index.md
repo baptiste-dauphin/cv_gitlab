@@ -72,7 +72,7 @@ Rédaction d’une documentation complète en anglais
 ### OS
 Debian/Ubuntu, ArchLinux, ESX.
 ### Infrastructure
-VMWare, OpenStack, OVH, Outscale, PfSense, SaltStack, Ansible, GitLab/GitHub, Terraform, Cloud-init, Docker, Swarm, Kubernetes, Python virtualenv, uwsgi, Php-fpm, Npm, HAProxy, NGINX (+naxsi WAF), Bind9, Unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL/mariaDB, Percona Cluster, Redis, Grafana, Prometheus, Zabbix, Telegraf, InfluxDB, OpenSSL, lvm, Squid, Keepalived, Syslog-ng, Systemd unit, Xinetd, Health-Checking.
+Ovh, outscale, gandi, VMWare, OpenStack, Terraform, cloud-init, PfSense, SaltStack, Ansible, GitLab/GitHub, Docker, Swarm, Kubernetes, Python virtualenv, uwsgi, Php-fpm, Npm, HAProxy, NGINX (+naxsi WAF), Bind9, Unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL/mariaDB, Percona Cluster, Redis, Grafana, Prometheus, Zabbix, Telegraf, InfluxDB, OpenSSL, lvm, Squid, Keepalived, Syslog-ng, Systemd unit, Xinetd, Health-Checking.
 ### Réseaux
 Iptables statefull et stateless, Tcpdump, Netcat, Mtr.
 ### Langages

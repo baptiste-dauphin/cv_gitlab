@@ -16,7 +16,7 @@ Administrateur systèmes et réseaux
 ### __Administrateur systèmes et réseaux__ | [Qwant](https://www.qwant.com/)
 
 
-Mise en production (data, schema, load-balancer, code, DNS, certificats...).
+Mise en production (data, schema, load-balancer, code, DNS, certificats).
 
 Automatisation : déploiement, configuration system, remonté de logs, gestion d'accès, firewall, monitoring.
 
@@ -40,6 +40,7 @@ Prise en charge du POC avec OVH pendant 6 mois.
 
 Maintien de la production (Running).
 
+Reprise du legacy.
 
 
 `février 2017 - janvier 2018`

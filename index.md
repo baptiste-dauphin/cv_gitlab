@@ -40,7 +40,7 @@ Prise en charge du POC avec OVH pendant 6 mois.
 
 Maintien de la production (Running).
 
-Reprise du legacy.
+Industrialisation du legacy.
 
 
 `février 2017 - janvier 2018`
@@ -73,7 +73,7 @@ Rédaction d’une documentation complète en anglais
 ### OS
 Debian/Ubuntu, ArchLinux, ESX.
 ### Infrastructure
-Ovh, outscale, gandi, VMWare, OpenStack, Terraform, cloud-init, PfSense, SaltStack, Ansible, GitLab/GitHub, Docker, Swarm, Kubernetes, Python virtualenv, uwsgi, Php-fpm, Npm, HAProxy, NGINX (+naxsi WAF), Bind9, Unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL/mariaDB, Percona Cluster, Redis, Grafana, Prometheus, Zabbix, Telegraf, InfluxDB, OpenSSL, lvm, Squid, Keepalived, Syslog-ng, Systemd unit, Xinetd, Health-Checking.
+Ovh, outscale, gandi, VMWare, OpenStack, Terraform, cloud-init, PfSense, SaltStack, Ansible, GitLab/GitHub, Docker, Swarm, Kubernetes, Python virtualenv, uwsgi, Php-fpm, Npm, HAProxy, NGINX (+naxsi WAF), Bind9, Unbound, PowerDNS, stack Elastic Search, RabbitMQ, MySQL/mariaDB, Percona Cluster, Redis (server / sentinel), Grafana, Prometheus, Zabbix, Telegraf, InfluxDB, OpenSSL, lvm, Squid, Keepalived, Syslog-ng, Systemd unit, Xinetd, Health-Checking.
 ### Réseaux
 Iptables statefull et stateless, Tcpdump, Netcat, Mtr.
 ### Langages
